@@ -116,7 +116,7 @@ while(volver == 0):
                  total = datos4['puntos']
                  print("usted gano un celular ahora tiene ",total, " de puntos")
                case _:
-                 print("porfavor seleccione los refalos disponibles")
+                 print("porfavor seleccione los regalos disponibles")
            else:
              print("usted no tiene los puntos suficientes para reclamar")
 
